@@ -1,2 +1,4 @@
-# yukkuri-chabange-festival
+# ゆっくり茶番劇 投稿祭
+
+公式サイト用の静的ページです。GitHub Pagesで公開する想定です。
 ゆっくり茶番劇投稿祭 公式サイト
